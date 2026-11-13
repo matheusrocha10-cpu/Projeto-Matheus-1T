@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+      head{
+        back-ground-color:white;
+        color:black;
+        text-align: center;
+        max-widht: 800px;
+        margin: 0 auto;
+      }
+    body{
+      background-color: white;
+      text-align: center;
+      margin-right: 250px;
+      margin-left: 250px;
+      font-family: Arial, Helvetica, sans-serif;
+      border: 2px solid black;
+      border-radius: 15px;
+    }
+  </style>
+    <title>Os 4 Elementos</title>
+    <h1>As informações</h1>
+    <p>Eles são melhores amigos</p>
+</head>
+  <body>
+    <main>
+   <article>
+    <img src="imagem-blog.png"
+      alt="Logotipo conceitual de tecnologia e educação: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de WI-FI, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
+    <div>
+        <h2>Meu primeiro post</h2>
+        <p class="artigo-autor">Por: Marcelo Paludetto</p>
+        <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de
+            tecnologia.</p>
+            <button>❤️ <span>0</span></button>
+            <button>👍 <span>0</span></button>
+         </div>
+        </article>
+        <article>
+            <img src="imagem-dados.jpg"
+            alt="Ilustração do planeta Terra cercado por elementos digitais, representando a conectividade global e a tecnologia.">
